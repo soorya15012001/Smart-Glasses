@@ -1,3 +1,3 @@
 # Smart-Glasses
 
-THIS IS NEW REPO BECAUSE I DONT KNOW HOW TO REMOVE FILES FROM REPOS :-| 
+Software for a Smart Glasses system for travel purposes.
